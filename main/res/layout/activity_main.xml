@@ -1,0 +1,46 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="at.navilla.wienerwald.MainActivity">
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan_background"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:id="@+id/sights"
+        style="@style/CategoryStyle"
+        android:background="@color/cat_sights"
+        android:text="@string/sights"
+        android:textSize="18sp"/>
+
+    <TextView
+        android:id="@+id/facilities"
+        style="@style/CategoryStyle"
+        android:background="@color/cat_facilities"
+        android:text="@string/facilities"
+        android:textSize="18sp"/>
+
+    <TextView
+        android:id="@+id/companies"
+        style="@style/CategoryStyle"
+        android:background="@color/cat_companies"
+        android:text="@string/companies"
+        android:textSize="18sp"/>
+
+    <TextView
+        android:id="@+id/addresses"
+        style="@style/CategoryStyle"
+        android:background="@color/cat_addresses"
+        android:text="@string/addresses"
+        android:textSize="18sp"/>
+
+
+
+</LinearLayout>
+</ScrollView>

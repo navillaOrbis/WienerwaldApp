@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Wienerwald</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="sights">Pamětihodnosti</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="facilities">Zařízení</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="companies">Podnik</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="addresses">Adresy</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="streets">Ulicích</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="routes">Trasy</string>
+</resources>
